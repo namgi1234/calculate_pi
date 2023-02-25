@@ -2,7 +2,7 @@
 
 ## Before reading
 
-####Think of a circle as a regular polygon with infinite sides.
+Think of a circle as a regular polygon with infinite sides.
 
 ## calculate circumference!
 
